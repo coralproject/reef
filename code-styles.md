@@ -32,3 +32,8 @@ This is a guide we are trying to follow when writing code for the Coral Project.
 ### Useful Tools when developing
 
 * eslint
+
+
+## Resources
+
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
