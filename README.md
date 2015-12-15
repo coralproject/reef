@@ -12,16 +12,16 @@ For more information about us and to see our blog, please visit [our website](ht
 
 This repository is a collection of documents, guides and practices that do not directly contain our software applications, including:
 
-[DNA](dna) - Code of conduct, contributor guides, coding principles, and more.
+[DNA](dna) - our code of conduct, contributor guides, coding principles, and more.
 
 [Ecosystem](ecosystem) - a high level look at our products.
 
-[Brain](brain) - Documentation surrounding our handling of the data that lies at the core of all of our products.
+[Brain](brain) - documentation surrounding our handling of the data that lies at the core of all of our products.
 
-[Spawn](spawn) - How to spawn your own community project or create new parts within ours.  CI, local installs, etc... at the ecosystem level.
+[Spawn](spawn) - how to spawn your own community project or create new parts within ours.  CI, local installs, etc... at the ecosystem level.
 
 ## But where's the code?!
 
-We are in the process of stabalizing the roles and implementing the initial architecture for the various pieces of software.  We will make all of our non-client specific code, as well as the technical discussions surrounding them, public on Jan 1, 2016.  
+You'll see it soon! We are currently stabilizing  roles and implementing the initial architecture. We will make all of our non-client specific code, as well as the technical discussions surrounding them, public on Jan 1, 2016.  
 
 Thanks for diving in. 
