@@ -1,9 +1,9 @@
 # Code Principles
 Below is a list of principles for everything that we build.
 
-The precise meaning of each of these words is different for each product – and so we define its meaning during our product planning as we begin each sprint.
+The core team created it together at the start of the project. We've written them down so that, as we work on the details of what we're building, we don't lose sight of the things about which we care most. 
 
-We’ve written these concepts down to ensure that we keep them at the core of all that we do.
+The precise meaning of each of these words is different for each product – and so we define its meaning before we start coding each one.
 
 * Secure
 * Open
@@ -34,4 +34,4 @@ We’ve written these concepts down to ensure that we keep them at the core of a
 * Addresses a clear user need
 * User privacy controls including meaningful deletion policies
 
-Please, comment or ask any question about them.
+Please, comment or ask any questions about these. This is a working document, and can be changed at any point, with the approval of the core team.
