@@ -12,7 +12,7 @@ For more information about us and to see our blog, please visit [our website](ht
 
 This repository is a collection of documents, guides and practices that do not directly contain our software applications, including:
 
-[DNA](dna) - Contributor guides, coding principles, and more.
+[DNA](dna) - Code of conduct, contributor guides, coding principles, and more.
 
 [Ecosystem](ecosystem) - a high level look at our products.
 
