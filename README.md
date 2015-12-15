@@ -16,9 +16,9 @@ This repository is a collection of documents, guides and practices that do not d
 
 [Ecosystem](ecosystem) - a high level look at our products.
 
-[Brain](brain) - documentation surrounding our handling of the data that lies at the core of all of our products.
+Brain - (coming soon) documentation surrounding our handling of the data that lies at the core of all of our products.
 
-[Spawn](spawn) - how to spawn your own community project or create new parts within ours.  CI, local installs, etc... at the ecosystem level.
+Spawn - (coming soon) how to spawn your own community project or create new parts within ours.  CI, local installs, etc... at the ecosystem level.
 
 ## But where's the code?!
 
