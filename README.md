@@ -6,7 +6,7 @@ We also collect, support, and share practices, tools, and studies to improve com
 
 _The Coral Project is a collaboration between [The Mozilla Foundation](https://www.mozilla.org/en-US/foundation/), [The New York Times](http://nytimes.com), and [The Washington Post](http://washingtonpost.com), and is funded by a grant from [The John S. and James L. Knight Foundation](http://knightfoundation.org)._
 
-For more information about us and to see our blog, please visit [our website](https://coralproject.net). We are also on a [microblogging platform known as Twitter](https://twitter.com/coralproject).
+For more information about us and to see our blog, please visit [our website](https://coralproject.net) and [sign up to our newsletter](http://tinyletter.com/coralproject). We are also on [Twitter](https://twitter.com/coralproject).
 
 ## Welcome to the reef!
 
