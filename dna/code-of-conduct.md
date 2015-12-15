@@ -1,5 +1,5 @@
 # The Coral Project Code of Conduct
-Updated 12/9/2015
+_Updated 12/9/2015_
 
 
 **We expect everyone contributing to The Coral Project to follow this code of conduct. That means the team, contractors we employ, contributors, as well as anyone posting to our public or internal-facing channels.**
