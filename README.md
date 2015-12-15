@@ -1,4 +1,4 @@
-# The Coral Project
+<img src="https://coralproject.net/wp-content/uploads/2015/10/coralWordMark-1.5.png" width="400px" title="Coral Logo - an orange square with white curly lines similiar to those found in sea coral - plus the title The Coral Project" />
 
 We are creating open-source tools and resources for publishers of all sizes to build better communities around their journalism.
 
