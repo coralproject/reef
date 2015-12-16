@@ -1,5 +1,5 @@
 # The Coral Project Code of Conduct
-Updated 12/9/2015
+_Updated 12/9/2015_
 
 
 **We expect everyone contributing to The Coral Project to follow this code of conduct. That means the team, contractors we employ, contributors, as well as anyone posting to our public or internal-facing channels.**
@@ -96,5 +96,5 @@ If you’re too frustrated to have a direct conversation, there are a number of 
 We welcome your feedback on this and every other aspect of this week and everything we do as The Coral Project, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone involved in the project and what we do.
 
 
-*Above text is licensed CC BY-SA 4.0, adapted from the SRCCON code of conduct, FreeBSD's code of conduct, Vox Media's product team code of conduct, and Medium's code of condu*ct.
+*Above text is licensed CC BY-SA 4.0, adapted from the SRCCON code of conduct, FreeBSD's code of conduct, Vox Media's product team code of conduct, and Medium's code of conduct.*
 

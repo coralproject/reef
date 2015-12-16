@@ -10,6 +10,4 @@ Our [first product](https://coralproject.net/first-product/) will introduce a nu
 
 ![Trust Architecture](trust-product-architecture-current.png)
 
-We are excited that you've chosen to dive with us.  
-
--The Coral Project
+ 
