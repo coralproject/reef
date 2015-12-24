@@ -1,9 +1,6 @@
 Branches and tags
 =================
 
-Note: details of the release process for the Engine are documented in the
-[RELEASE-CHECKLIST](https://github.com/coralproject/reef/blob/master/project/RELEASE-CHECKLIST.md).
-
 # Branches
 
 Coral repositories should normally have only three living branches at all time, including
