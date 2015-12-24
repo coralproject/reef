@@ -1,14 +1,4 @@
-# Code Styles for Coral
-
-This is a guide we are trying to follow when writing code for the Coral Project.
-
-In general the motto is "EMBRACE SIMPLICITY"
-
-*This guide intends to be followed but is not required.*
-
-## Go Coding Style
-
-_Attribution: Go Coding Style adopted from the Docker project._
+# Go Coding Style
 
 Unless explicitly stated, we follow all coding guidelines from the Go
 community. While some of these standards may seem arbitrary, they somehow seem
@@ -55,8 +45,9 @@ reading through [Effective Go](http://golang.org/doc/effective_go.html). The
 [Go Blog](http://blog.golang.org/) is also a great resource. Drinking the
 kool-aid is a lot easier than going thirsty.
 
+_Attribution: Go Coding Style adopted from the Docker project._
 
-### Useful Tools when developing
+## Useful Tools when developing
 
 * golint
 * gofmt
@@ -64,13 +55,13 @@ kool-aid is a lot easier than going thirsty.
 * go vet
 * errcheck
 
-### Resources
+## Resources
 
 * [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 * [Best Practices for Production Environments](https://www.youtube.com/watch?v=Y1-RLAl7iOI)
 * [12 Factor App](http://12factor.net/)
 * [Tools for working with Go Code](https://speakerdeck.com/farslan/tools-for-working-with-go-code)
 
-## Javascript conventions coming soon
+# Javascript conventions coming soon
 
-This doesn't mean it's wild west. Simmer down before committing.
+This doesn't mean it's wild west. Simmer down cowyoungperson.
