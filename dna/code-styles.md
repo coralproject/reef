@@ -64,19 +64,13 @@ kool-aid is a lot easier than going thirsty.
 * go vet
 * errcheck
 
-## On Javascript Language
-
-### Conventions
-
-* NYT Style
-
-### Useful Tools when developing
-
-* eslint
-
-## Resources
+### Resources
 
 * [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 * [Best Practices for Production Environments](https://www.youtube.com/watch?v=Y1-RLAl7iOI)
 * [12 Factor App](http://12factor.net/)
 * [Tools for working with Go Code](https://speakerdeck.com/farslan/tools-for-working-with-go-code)
+
+## Javascript conventions coming soon
+
+This doesn't mean it's wild west. Simmer down before committing.
