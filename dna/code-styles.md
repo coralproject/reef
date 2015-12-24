@@ -8,7 +8,7 @@ In general the motto is "EMBRACE SIMPLICITY"
 
 ## Go Coding Style
 
-_Note: Go Coding Style adopted from the Docker project._
+_Attribution: Go Coding Style adopted from the Docker project._
 
 Unless explicitly stated, we follow all coding guidelines from the Go
 community. While some of these standards may seem arbitrary, they somehow seem
