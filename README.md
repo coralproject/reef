@@ -15,22 +15,27 @@ We seek to accomplish this by
 
 ## Security Disclosure
 
-Keeping data secure is very important to us.  If you find or suspect any security issues in our software or practices, please let us know by sending an email to security@coralproject.net and not by creating an issue.
+Keeping data secure is very important to us.  If you find or suspect any security issues in our software or practices, please let us know by sending an email to [security@coralproject.net](mailto:security@coralproject.net) and not by creating an issue.
 
 ## Build a Community for your Audience
 
-Your readers invest a tremendous amount of time and energy engaging online communities. Much of that discussion is inspired by the journalism you produce. Most of the activity, however, happens in places other than your site. These sites are not designed to foster discussion around journalism. They do not put the patterns of news stories and the interplay of topics in the forefront.  They certainly aren't customized around your unique brand, your ethos. Ultimately, these sites serve to keep attention away from the source.
+The Coral Project inspires conversations that lead organizations to discover the particular kinds of community that work for them and provides open source tools to make that community a reality.
 
-The relationship between a reader and a journalistic organization is deep and profound. In order to nurture that relationship, it is essential to foster a community that allows the particular tenor of the organization to thrive. The mission of the Coral project is to inspire conversations that lead organizations to discover the particular kinds of community that work for them and provide open source tools to make that community a reality.
-
-In order to best serve communities of varying shapes and sizes, all coral software is conceived from the ground up to be:
+The relationship between a reader and a journalistic organization is profound, nuanced, and of great value to both parties. In order to nurture that relationship, it is essential to foster a community that allows the particular tenor of the organization to thrive. Building this community around the very content that inspires it is extremely valuable both in terms of profits and culture. In order to best serve communities of varying shapes and sizes, all coral software is conceived from the ground up to be:
 
 * __Configurable__: We strive to use configuration to deliver as much business logic, data modeling, and other aspects of our systems as _is practical._ Doing so gives us the ability to quickly configure precise UI experiences, data structures, and data science analysis with minimal need for coding, upgrades, server work, etc... Ultimately, we want the community managers who run our software to feel like they are decorating their own house. This means trying things out, seeing how they feel, looking at the data and trying the next thing. We take our inspiration from the ever-changing, adaptable ecosystems of coral reefs.
 * __Modular__: Coral products can be used together to form a fully functioning community platform or be used in pieces to complement existing software. In order to accomplish this, we are building core api features, message passing and import/export strategies into everything we do.  In addition, we refining, documenting and publishing deployment strategies for each of our products in isolation as well as groups of our products configured to work in concert.
 * __Privacy__: There is an implicit act of trust involved in registration for and engagement in an online community. Maintaining that trust is a top priority for us. Privacy for us begins with security concerns and stretches deep into our product thinking. Whenever information is entered into our systems, we want to make it clear who will be able to see that information and how it will be used. We want to build safe, comfortable places that allow for conversations of varying levels of exposure without incorrect expectations and nasty surprises.
 * __Secure, Stable and Scalable__: Our deployment recommendations, if followed, provide usable and secure environments. Each piece of our software has internal checks to catch any error states and trigger alarms as well as external restart mechanisms. All of our platforms have proven records for stability and well known upgrade paths. We will publish auto-scaling deployment workflows where appropriate for large sites with varying loads.
 
+## Under the hood
+Coral products are based on the following technologies:
 
+* The [Go](https://golang.org) programming language
+* The [MongoDB](https://www.mongodb.org/) database
+* [React](https://facebook.github.io/react/) and [Redux](https://github.com/rackt/redux)
+* [Webpack](https://webpack.github.io/) and [Babel](https://babeljs.io/)
+* [Docker](https://www.docker.com/)
 
 ## What's here
 
