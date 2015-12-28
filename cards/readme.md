@@ -7,7 +7,9 @@
 
 We created this game because we want more people to think about how moderation tools and community structures change users’ experiences online. We encourage you to take a few minutes at the end of each round to consider how each rule change shifts the game’s  dynamic, and the actions of each Community Member.
 
-We've divided up the instructions into separate files within the repo. 
+###Where can I get the game?
+
+You can read about the cards, the rules and how to play within this repo. 
 
 * [You can also download them as a single PDF here.](https://coralproject.net/wp-content/uploads/2015/12/cards-against-community-instructions.pdf)
 
@@ -16,9 +18,21 @@ We've divided up the instructions into separate files within the repo.
 
 ###Change this game
 
-Please take this game and change it, translate it, improve it, add different rules. 
+Please take this game and change it, translate it, improve it, make different rules. 
 
 [It is distributed under an MIT free software license.](www.opensource.org/licenses/MIT )
+
+###How to change the game
+
+[You can download Photoshop/GIMP and InDesign/XML files here.](https://drive.google.com/folderview?id=0B-YwU3Yq1-PpaUVmN2ZWQkhIRmM&usp=sharing)
+
+You can download the fonts for free here:
+
+* [Josefin Slab](https://www.google.com/fonts/specimen/Josefin+Slab)
+
+* [Roboto Slab](https://www.google.com/fonts/specimen/Roboto+Slab)
+
+* [Yanone Kaffeesatz](http://www.yanone.de/typedesign/kaffeesatz/)
 
 If you have any suggestions on how to improve or change the game, you can submit pull requests to any of these files or email us at
 coral@mozillafoundation.org
@@ -30,7 +44,7 @@ You can also order physical copies of the cards, sold at production cost via The
 [Cards Against Community Deluxe Edition](https://www.thegamecrafter.com/games/cards-against-community-deluxe) - $19.99
 (includes five sand timers)
 
-###Other information
+###Important information
 
 Two elements within the game are subject to copyright, and may not be used without permission: The Coral Project logo, which is (c) The Mozilla Foundation, and the Trollface image, (c) Carlos Ramirez, used here with permission. If you want to charge money for a version of this game, Carlos requires that you remove Trollface from your design.
 
