@@ -38,6 +38,8 @@ For more details, visit our various repos and check the issues and milestones.
 
 To get a sense of who we are and how we approach open source software, read through our [principles](PRINCIPLES.md), [branching and tagging strategy](BRANCHES-AND-TAGS.md), [coding style suggestions](CODE-STYLES.md), and [code of conduct](CODE-OF-CONDUCT.md) as well.
 
+Also, make sure to play _at least_ three rounds of [Cards Against Community](cards) daily.
+
 ## Under the hood
 Coral products are based on the following technologies:
 
@@ -47,11 +49,6 @@ Coral products are based on the following technologies:
 * [Webpack](https://webpack.github.io/) and [Babel](https://babeljs.io/)
 * [Docker](https://www.docker.com/)
 
-## What's here
-
-This repository is a collection of documents, guides and practices. It does not contain our software applications but it will let you know what we're thinking, doing and where we're going. It will also let you know how to come along for the ride.
-
-Game - a card game we developed called Cards Against Community.
 
 ## But where's the code?!
 
