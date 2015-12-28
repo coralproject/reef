@@ -51,6 +51,8 @@ Coral products are based on the following technologies:
 
 This repository is a collection of documents, guides and practices. It does not contain our software applications but it will let you know what we're thinking, doing and where we're going. It will also let you know how to come along for the ride.
 
+Game - a card game we developed called Cards Against Community.
+
 ## But where's the code?!
 
 You'll see it soon! We are currently stabilizing roles and implementing the initial architecture. We will make all of our non-client specific code, as well as the technical discussions surrounding them, public in early 2016.  
