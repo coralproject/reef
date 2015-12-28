@@ -1,4 +1,4 @@
-# The Coral Project: build strong community
+# The Coral Project: build community
 
 The Coral Project is an open source project helping publishers of all sizes to build better communities around their journalism.
 
