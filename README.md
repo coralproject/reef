@@ -5,7 +5,7 @@ The Coral Project is an open source project helping publishers of all sizes to b
 We seek to accomplish this by
 
 * creating open source community building software, and
-* disseminate practices, tools, and studies to improve communities on the web.
+* creating, refining and disseminating practices, tools and studies to improve communities around journalism on the web.
 
 .
 
