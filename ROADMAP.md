@@ -28,6 +28,29 @@ This roadmap document is organized into products, features and processes. This d
 ### Trust 
 Configurable metrics and analytics
 
+#### Imprort error resolution workflow / tooling
+
+__Product(s)__: Sponge
+
+__Challenge__: When importing up to many millions of datapoints into Coral, much can go wrong. Exporting in the wrong order of precidence can lead to foreign keys being missing. Mis-shaped documents or unrecognized characters can lead to dropped documents. 
+
+__Solution__: Identify documents that did not import properly, diagnose why, address the issue(s) and efficiently reimport. Fold all this into a coherent workflow.
+
+__Issue__: [https://github.com/coralproject/sponge/issues/13](https://github.com/coralproject/sponge/issues/13)
+
+#### Custom Queries
+
+__Product(s)__: Sponge
+
+__Challenge__: Source schemas will vary and we need to be able to pull in data from across tables into our core schema.
+
+__Solution__: Allow for custom queries in strategy files, allowing for joins, sub-selects, etc...
+
+__Issue__: Untracked
+
+
+
+
 
 ### Curate 
 Moderation and community engagement
