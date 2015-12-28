@@ -1,6 +1,6 @@
 ##About the game cards
 
-##There are three types of cards.
+**There are three types of cards.**
 
 ###Character Cards
 
