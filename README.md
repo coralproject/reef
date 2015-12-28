@@ -49,6 +49,8 @@ Brain - (coming soon) documentation surrounding our handling of the data that li
 
 Spawn - (coming soon) how to spawn your own community project or create new parts within ours.  CI, local installs, etc... at the ecosystem level.
 
+Game - a card game we developed called Cards Against Community.
+
 ## But where's the code?!
 
 You'll see it soon! We are currently stabilizing roles and implementing the initial architecture. We will make all of our non-client specific code, as well as the technical discussions surrounding them, public in early 2016.  
