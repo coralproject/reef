@@ -1,7 +1,7 @@
 
 ## How to play 
 
-**Round 1**
+###Round 1
 
 The HOC divides the Character Cards face up into two piles: Trolls and Non-Trolls. They turn the cards face down, shuffle each pile, take one Troll card, and then enough Non-Troll cards until the HOC has one Character Card for each Community Member.
 
