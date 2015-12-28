@@ -27,7 +27,7 @@ This roadmap document is organized into products. Throughout 2016 we will be eng
 * _alpha_ - Active development of core features.  This is the best time to get involved in helping establish architecture, schemas and other low level formative things.
 * _beta (partner)_ - Ready for our beta partners to use with the understanding that we will work with them to resolve issues. This phase is designed to expose useful features, hidden bugs and lacks of clarity.  If you're new to coding or haven't participated before, look for issues under beta milestones.
 * _beta_ - Stable, secure, feature-functional, documented and ready to use without our involvement.  All breaking issues are resolved, all others are documented. This is a great time to bring ideas for features or just hunt down existing bugs.
-* _release_ - There comes that bittersweet day in the life of every piece of code when we have to send it off into the world to make it's own way. As we approach releases, we will be actively looking for community maintainers among those who have participated along the way. Interested? Let us know!
+* _release_ - There comes that bittersweet day in the life of every piece of code when we have to send it off into the world to make its own way. As we approach releases, we will be actively looking for community maintainers among those who have participated along the way. Interested? Let us know!
 
 ## Trust 
 Configurable metrics and analytics
