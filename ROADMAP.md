@@ -1,6 +1,6 @@
 # The Coral Project Roadmap
 
-__Note: this document is not complete__
+__Note: this document is not yet complete but is already useful__
 
 This document outlines the direction toward which we will be focusing our efforts for the foreseeable future. It is neither definitive nor comprehensive. Please feel free to contribute updates to this document if anything strikes you as incomplete, nonsensical, mis-prioritized, contrary to our principles, or otherwise discombobulated.
 
@@ -21,14 +21,20 @@ Please follow the following steps to align efforts and avoid duplication:
 	
 ## Layout
 
-This roadmap document is organized into products, features and processes. This document establishes the canonical names for all products and features. README.md files in technical repos will cross reference this document.
+This roadmap document is organized into products. Throughout 2016 we will be engaged in a series of product rollouts that will look something like this:
 
-## Products
+* _pre-alpha_ - We haven't started building this yet.  We are fielding architecture suggestions, feature requests, and examples to follow or avoid.  This is a great time to get inolved in the conversation from the ground up.
+* _alpha_ - Active development of core features.  This is the best time to get involved in helping establish architecture, schemas and other low level formative things.
+* _beta (partner)_ - Ready for our beta partners to use with the understanding that we will work with them to resolve issues. This phase is designed to expose useful features, hidden bugs and lacks of clarity.  If you're new to coding or haven't participated before, look for issues under beta milestones.
+* _beta_ - Stable, secure, feature-functional, documented and ready to use without our involvement.  All breaking issues are resolved, all others are documented. This is a great time to bring ideas for features or just hunt down existing bugs.
+* _release_ - There comes that bittersweet day in the life of every piece of code when we have to send it off into the world to make it's own way. As we approach releases, we will be actively looking for community maintainers among those who have participated along the way. Interested? Let us know!
 
-### Trust 
+## Trust 
 Configurable metrics and analytics
 
-#### Smooth imports and data sync with Sponge
+__(Alpha)__
+
+### Smooth imports and data sync with Sponge
 
 There's a family of open issues surrounding smoothing out the import process and keeping data in sync.  This is an opportunity to work on interesting data transormations and issues surrounding moving large datasets.
 
@@ -37,38 +43,35 @@ There's a family of open issues surrounding smoothing out the import process and
 * [Custom Queries in Strategies](https://github.com/coralproject/sponge/issues/16)
 * [Regularly scheduled imports (snapshot sync)](https://github.com/coralproject/sponge/issues/17)
 
-#### The Coral Schema!
+### The Coral Schema!
 
 We will be refining the schema for core Coral datatypes throughout the first half of 2016. The majority of the work here will involve working on Go service endpoints, aka Pillar. This work also touches imports, aggregation query reads and data science integration.
 
 * [Count caching in documents](https://github.com/coralproject/pillar/issues/7)
 
 
-
-
-
-### Curate 
+## Curate 
 Moderation and community engagement
 
 
-### Contribute
+## Contribute
 A flexible UGC engine
 
 
-### Conversation
+## Conversation
 Community UI, eg. comments, messaging, etc...
 
 
-### Atoll 
+## Atoll 
 Data Science Pipelines
 
 
-### Sponge
+## Sponge
 Import / Export tools
 
-## Processes
+# Processes
 
-### Spawn
+## Spawn
 Launch and configure Coral ecosystems
 
 ### Brain
