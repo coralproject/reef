@@ -1,7 +1,7 @@
 ##Cards Against Community
 
-*A game of conversation, moderation, and trolling for 4-6 players
-*Length of game: 20 minutes
+* A game of conversation, moderation, and trolling for 4-6 players
+* Length of game: 20 minutes
 
 **How to play** 
 
