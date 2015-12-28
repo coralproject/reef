@@ -1,4 +1,4 @@
-# Code Principles
+# Principles
 Below is a list of principles for everything that we build.
 
 The core team created it together at the start of the project. We've written them down so that, as we work on the details of what we're building, we don't lose sight of the things about which we care most. 
