@@ -45,7 +45,7 @@ The HOC deliberately chooses the Character Cards for each Community Member, with
 
 Players receive one Moderation Card each as with Rounds 1 and 2.
 
-Ending the Game
+###Ending the Game
 
 The player with the most points is declared the winner. 
 
