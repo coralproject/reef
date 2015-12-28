@@ -1,11 +1,11 @@
-# The Coral Project: build strong community
+# The Coral Project: build community
 
 The Coral Project is an open source project helping publishers of all sizes to build better communities around their journalism.
 
 We seek to accomplish this by
 
 * creating open source community building software, and
-* disseminate practices, tools, and studies to improve communities on the web.
+* creating, refining and disseminating practices, tools and studies to improve communities around journalism on the web.
 
 .
 
@@ -27,6 +27,10 @@ The relationship between a reader and a journalistic organization is profound, n
 * __Modular__: Coral products can be used together to form a fully functioning community platform or be used in pieces to complement existing software. In order to accomplish this, we are building core api features, message passing and import/export strategies into everything we do.  In addition, we refining, documenting and publishing deployment strategies for each of our products in isolation as well as groups of our products configured to work in concert.
 * __Privacy__: There is an implicit act of trust involved in registration for and engagement in an online community. Maintaining that trust is a top priority for us. Privacy for us begins with security concerns and stretches deep into our product thinking. Whenever information is entered into our systems, we want to make it clear who will be able to see that information and how it will be used. We want to build safe, comfortable places that allow for conversations of varying levels of exposure without incorrect expectations and nasty surprises.
 * __Secure, Stable and Scalable__: Our deployment recommendations, if followed, provide usable and secure environments. Each piece of our software has internal checks to catch any error states and trigger alarms as well as external restart mechanisms. All of our platforms have proven records for stability and well known upgrade paths. We will publish auto-scaling deployment workflows where appropriate for large sites with varying loads.
+
+## Roadmap
+
+Our top level roadmap is [here](ROADMAP.md).  For more details, visit our various repos and check the issues and milestones.
 
 ## Under the hood
 Coral products are based on the following technologies:

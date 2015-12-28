@@ -62,6 +62,8 @@ _Attribution: Go Coding Style adopted from the Docker project._
 * [12 Factor App](http://12factor.net/)
 * [Tools for working with Go Code](https://speakerdeck.com/farslan/tools-for-working-with-go-code)
 
-# Javascript conventions coming soon
+# Javascript conventions
 
-This doesn't mean it's wild west. Simmer down cowyoungperson.
+We are currently working under the [Airbnb js react conventions](https://github.com/airbnb/javascript/tree/master/react). 
+
+
