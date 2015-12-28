@@ -8,7 +8,7 @@ This document outlines the direction toward which we will be focusing our effort
 
 Please follow the following steps to align efforts and avoid duplication:
 
-* If this is your first time here, please read this document in it's entirety before suggesting changes. 
+* If this is your first time here, please read this document in its entirety before suggesting changes. 
 * If you're interested in keeping up with the nitty gritty of our changing prioritizaiton and product strategy, Watch this document as well as other ROADMAP files in other Coral repos.
 * If you see something here that you __want to implement__...
 	* Check the issues to see if anyone is working on it and if they are, consider joining forces
@@ -43,36 +43,56 @@ There's a family of open issues surrounding smoothing out the import process and
 * [Custom Queries in Strategies](https://github.com/coralproject/sponge/issues/16)
 * [Regularly scheduled imports (snapshot sync)](https://github.com/coralproject/sponge/issues/17)
 
-### The Coral Schema!
+### Apis and schemas
 
-We will be refining the schema for core Coral datatypes throughout the first half of 2016. The majority of the work here will involve working on Go service endpoints, aka Pillar. This work also touches imports, aggregation query reads and data science integration.
+We will be refining the schema for core Coral datatypes throughout the first half of 2016. The majority of the work here will involve working on Go service endpoints, aka Pillar. This work also touches imports, aggregation query reads, and data science integration.
 
 * [Count caching in documents](https://github.com/coralproject/pillar/issues/7)
+* [Allow notes on Comments and Users](https://github.com/coralproject/pillar/issues/8)
+* [Build Tag apis](https://github.com/coralproject/pillar/issues/9)
+
+There is also a lot of work to be done building api endpoints via MongoDB aggregation pipelines with Xenia:
+
+*[Create User Search pipeline](https://github.com/coralproject/xenia/issues/32)
+
+### Front End 
+
+There's a ton to do on the front end. This is a great time to get involved from the ground floor.  If you like React, Redux, ES6, etc... take a look at these issues:
+
+* [Create "Tag Manager"](https://github.com/coralproject/pillar/issues/10)
+* [Create "Tagger" widget](https://github.com/coralproject/pillar/issues/11)
+* [Integrate Logging / Analytics](https://github.com/coralproject/cay/issues/12)
+* [Create User Search box](https://github.com/coralproject/cay/issues/13)
+
+### Systems / Devops
+
+* [Launch ELK logging stack](https://github.com/coralproject/reef/issues/10)
 
 
-## Curate 
-Moderation and community engagement
-
-
-## Contribute
-A flexible UGC engine
-
-
-## Conversation
-Community UI, eg. comments, messaging, etc...
-
-
-## Atoll 
+### Atoll 
 Data Science Pipelines
 
 
-## Sponge
-Import / Export tools
-
-# Processes
-
-## Spawn
+### Spawn
 Launch and configure Coral ecosystems
 
 ### Brain
 Processes surrounding security, backup/restores, and more...
+
+
+## Pre-Alpha Products
+
+The following projects are on the roadmap for 2016. We haven't started coding them yet, but please do join the planning on the wiki or our [community site](https://community.coralproject.net).
+
+### Curate 
+Moderation and community engagement
+
+
+### Contribute
+A flexible UGC engine
+
+
+### Conversation
+Community UI, eg. comments, messaging, etc...
+
+
