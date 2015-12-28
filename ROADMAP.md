@@ -28,63 +28,19 @@ This roadmap document is organized into products, features and processes. This d
 ### Trust 
 Configurable metrics and analytics
 
-#### Imprort error resolution workflow / tooling
+#### Smooth imports and data sync with Sponge
 
-__Product(s)__: Sponge
+There's a family of open issues surrounding smoothing out the import process and keeping data in sync.  This is an opportunity to work on interesting data transormations and issues surrounding moving large datasets.
 
-__Challenge__: When importing up to many millions of datapoints into Coral, much can go wrong. Exporting in the wrong order of precidence can lead to foreign keys being missing. Mis-shaped documents or unrecognized characters can lead to dropped documents. 
+* [https://github.com/coralproject/sponge/issues/13](https://github.com/coralproject/sponge/issues/13)
+* [Custom Queries in Strategies](https://github.com/coralproject/sponge/issues/16)
+* [Regularly scheduled imports (snapshot sync)](https://github.com/coralproject/sponge/issues/17)
 
-__Solution__: Identify documents that did not import properly, diagnose why, address the issue(s) and efficiently reimport. Fold all this into a coherent workflow.
+#### The Coral Schema!
 
-__Issue__: [https://github.com/coralproject/sponge/issues/13](https://github.com/coralproject/sponge/issues/13)
+We will be refining the schema for core Coral datatypes throughout the first half of 2016. The majority of the work here will involve working on Go service endpoints, aka Pillar. This work also touches imports, aggregation query reads and data science integration.
 
-#### Custom Queries
-
-__Product(s)__: Sponge
-
-__Challenge__: Source schemas will vary and we need to be able to pull in data from across tables into our core schema.
-
-__Solution__: Allow for custom queries in strategy files, allowing for joins, sub-selects, etc...
-
-__Issue__: Untracked
-
-#### Regularly scheduled imports (snapshot sync)
-
-__Product(s)__: Sponge, cron
-
-__Challenge__: Sponge v1 will only support snapshot imports. In order to make the metrics meaningful, we would also like to keep coral data as close to in sync as possible to a live dataset.
-
-__Solution__: Extend sponge cli and establish and document a cron job, or similar, way of periodically updating coral data from live source data.  
-
-__Issue__:
-
-__Note__: We may want to query against update_date, or similar, as updates to data that has already been imported need to be tracked.
-
-#### Count caching in documents
-
-__Product(s)__: Pillar
-
-__Challenge__: A lot of the analytics that we want to provide depend on counts. How many times has a user recommended and article. Calculating these on the fly is not practical.  
-
-__Solution__: Implement counters and lists in documents that are updated upon creates/updates.
-
-__Issue__:
-
-__Note__: Caching like this opens the door for data integrety issues. There are varying strategies to be discussed in the issue: 
-
-* Increment counters (fastest but does not account for data getting out of sync)
-* Recalculate counters each time (ensures integrety but not as efficient)
-* Implement integrety checks / recounts (identify and fix sources of data descripancy)
-
-####
-
-__Product(s)__:
-
-__Challenge__:
-
-__Solution__:
-
-__Issue__:
+* [Count caching in documents](https://github.com/coralproject/pillar/issues/7)
 
 
 
