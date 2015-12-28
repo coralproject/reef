@@ -32,7 +32,8 @@ Configurable metrics and analytics
 
 There's a family of open issues surrounding smoothing out the import process and keeping data in sync.  This is an opportunity to work on interesting data transormations and issues surrounding moving large datasets.
 
-* [https://github.com/coralproject/sponge/issues/13](https://github.com/coralproject/sponge/issues/13)
+* [Integrate MongoDB strategies](https://github.com/coralproject/sponge/issues/19)
+* [Import error resolution workflow / tooling](https://github.com/coralproject/sponge/issues/13)
 * [Custom Queries in Strategies](https://github.com/coralproject/sponge/issues/16)
 * [Regularly scheduled imports (snapshot sync)](https://github.com/coralproject/sponge/issues/17)
 
