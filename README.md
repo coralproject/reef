@@ -28,6 +28,10 @@ The relationship between a reader and a journalistic organization is profound, n
 * __Privacy__: There is an implicit act of trust involved in registration for and engagement in an online community. Maintaining that trust is a top priority for us. Privacy for us begins with security concerns and stretches deep into our product thinking. Whenever information is entered into our systems, we want to make it clear who will be able to see that information and how it will be used. We want to build safe, comfortable places that allow for conversations of varying levels of exposure without incorrect expectations and nasty surprises.
 * __Secure, Stable and Scalable__: Our deployment recommendations, if followed, provide usable and secure environments. Each piece of our software has internal checks to catch any error states and trigger alarms as well as external restart mechanisms. All of our platforms have proven records for stability and well known upgrade paths. We will publish auto-scaling deployment workflows where appropriate for large sites with varying loads.
 
+## Roadmap
+
+Our top level roadmap is [here](ROADMAP.md).  For more details, visit our various repos and check the issues and milestones.
+
 ## Under the hood
 Coral products are based on the following technologies:
 
