@@ -53,16 +53,18 @@ We will be refining the schema for core Coral datatypes throughout the first hal
 
 There is also a lot of work to be done building api endpoints via MongoDB aggregation pipelines with Xenia:
 
-*[Create User Search pipeline](https://github.com/coralproject/xenia/issues/32)
+* [Create User Search pipeline](https://github.com/coralproject/xenia/issues/32)
+* [Create xmatch (composable query parameter -> $match functionality)](https://github.com/coralproject/xenia/issues/33)
 
 ### Front End 
 
 There's a ton to do on the front end. This is a great time to get involved from the ground floor.  If you like React, Redux, ES6, etc... take a look at these issues:
 
-* [Create "Tag Manager"](https://github.com/coralproject/pillar/issues/10)
-* [Create "Tagger" widget](https://github.com/coralproject/pillar/issues/11)
+* [Create "Tag Manager"](https://github.com/coralproject/cay/issues/10)
+* [Create "Tagger" widget](https://github.com/coralproject/cay/issues/11)
 * [Integrate Logging / Analytics](https://github.com/coralproject/cay/issues/12)
 * [Create User Search box](https://github.com/coralproject/cay/issues/13)
+* [Create "Filter" ui](https://github.com/coralproject/cay/issues/14)
 
 ### Systems / Devops
 
