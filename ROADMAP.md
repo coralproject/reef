@@ -48,6 +48,44 @@ __Solution__: Allow for custom queries in strategy files, allowing for joins, su
 
 __Issue__: Untracked
 
+#### Regularly scheduled imports (snapshot sync)
+
+__Product(s)__: Sponge, cron
+
+__Challenge__: Sponge v1 will only support snapshot imports. In order to make the metrics meaningful, we would also like to keep coral data as close to in sync as possible to a live dataset.
+
+__Solution__: Extend sponge cli and establish and document a cron job, or similar, way of periodically updating coral data from live source data.  
+
+__Issue__:
+
+__Note__: We may want to query against update_date, or similar, as updates to data that has already been imported need to be tracked.
+
+#### Count caching in documents
+
+__Product(s)__: Pillar
+
+__Challenge__: A lot of the analytics that we want to provide depend on counts. How many times has a user recommended and article. Calculating these on the fly is not practical.  
+
+__Solution__: Implement counters and lists in documents that are updated upon creates/updates.
+
+__Issue__:
+
+__Note__: Caching like this opens the door for data integrety issues. There are varying strategies to be discussed in the issue: 
+
+* Increment counters (fastest but does not account for data getting out of sync)
+* Recalculate counters each time (ensures integrety but not as efficient)
+* Implement integrety checks / recounts (identify and fix sources of data descripancy)
+
+####
+
+__Product(s)__:
+
+__Challenge__:
+
+__Solution__:
+
+__Issue__:
+
 
 
 
