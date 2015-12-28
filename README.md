@@ -28,9 +28,15 @@ The relationship between a reader and a journalistic organization is profound, n
 * __Privacy__: There is an implicit act of trust involved in registration for and engagement in an online community. Maintaining that trust is a top priority for us. Privacy for us begins with security concerns and stretches deep into our product thinking. Whenever information is entered into our systems, we want to make it clear who will be able to see that information and how it will be used. We want to build safe, comfortable places that allow for conversations of varying levels of exposure without incorrect expectations and nasty surprises.
 * __Secure, Stable and Scalable__: Our deployment recommendations, if followed, provide usable and secure environments. Each piece of our software has internal checks to catch any error states and trigger alarms as well as external restart mechanisms. All of our platforms have proven records for stability and well known upgrade paths. We will publish auto-scaling deployment workflows where appropriate for large sites with varying loads.
 
-## Roadmap
+## What's going on and how can I get involved?
 
-Our top level roadmap is [here](ROADMAP.md).  For more details, visit our various repos and check the issues and milestones.
+For a high level picture of our vision and products, see [our ecosystem page](ECOSYSTEM.md).
+
+For a granular view of our current focus and future plans, see [the roadmap](ROADMAP.md).  This is a great place to go if you're looking for a way to contribute.  
+
+For more details, visit our various repos and check the issues and milestones.
+
+To get a sense of who we are and how we approach open source software, read through our [principles](PRINCIPLES.md), [branching and tagging strategy](BRANCHES-AND-TAGS.md), [coding style suggestions](CODE-STYLES.md), and [code of conduct](CODE-OF-CONDUCT.md) as well.
 
 ## Under the hood
 Coral products are based on the following technologies:
@@ -43,15 +49,7 @@ Coral products are based on the following technologies:
 
 ## What's here
 
-This repository is a collection of documents, guides and practices that do not directly contain our software applications, including:
-
-[DNA](dna) - our code of conduct, contributor guides, coding principles, and more.
-
-[Ecosystem](ecosystem) - a high level look at our products and roadmaps.
-
-Brain - (coming soon) documentation surrounding our handling of the data that lies at the core of all of our products.
-
-Spawn - (coming soon) how to spawn your own community project or create new parts within ours.  CI, local installs, etc... at the ecosystem level.
+This repository is a collection of documents, guides and practices. It does not contain our software applications but it will let you know what we're thinking, doing and where we're going. It will also let you know how to come along for the ride.
 
 ## But where's the code?!
 
