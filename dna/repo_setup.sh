@@ -27,7 +27,7 @@ curl --user "$USER:$PASS" --include --request DELETE "https://api.github.com/rep
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"exp/advanced","color":"eb6420"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"exp/intermediate","color":"bfe5bf"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"exp/beginner","color":"c7def8"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
-curl --user "$USER:$PASS" --include --request POST --data '{"name":"flag/help wanted","color":"006b75"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
+curl --user "$USER:$PASS" --include --request POST --data '{"name":"kind/help wanted","color":"006b75"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"kind/bug","color":"e11d21"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"kind/enhancement","color":"84b6eb"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"kind/question","color":"cc317c"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
