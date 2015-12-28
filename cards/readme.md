@@ -36,6 +36,6 @@ Two elements within the game are subject to copyright, and may not be used witho
 
 This game is not affiliated with or connected to the game Cards Against Humanity, nor any products created by Cards Against Humanity LLC. We just liked the name. 
 
-Cards Against Community was designed by Andrew Losowsky, with considerable help from Casey Middaugh. It was designed by Angel Colberg and playtested at The New York Times, FOO Camp, SND Makes, and by the Coral team. Thanks to all the playtesters for your ideas and feedback. You truly made it better.
+Cards Against Community is © 2015, The Mozilla Foundation. It was designed by Andrew Losowsky, with considerable help from Casey Middaugh. It was designed by Angel Colberg and playtested at The New York Times, FOO Camp, SND Makes, and by the Coral team. Thanks to all the playtesters for your ideas and feedback. You truly made it better.
 
 Help us make online communities better: [www.coralproject.net](www.coralproject.net)
