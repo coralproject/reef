@@ -21,7 +21,7 @@ It is your responsibility to track 30 seconds on the HOC’s timer.
 You cannot play a moderation card yourself until your 30 second penalty has ended. 
 Moderation cards cannot be played against the HOC.
 
-**Topic Cards**
+###Topic Cards
 
 ![Topic card back](https://coralproject.net/wp-content/uploads/2015/12/Topic-Back-B.png) ![Topic card front, reads 'a book everyone should read'](https://coralproject.net/wp-content/uploads/2015/12/Topics-B-copy-3.png)
 
