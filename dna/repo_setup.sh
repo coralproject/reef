@@ -38,3 +38,8 @@ curl --user "$USER:$PASS" --include --request POST --data '{"name":"tech/mongodb
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"triage/duplicate","color":"cccccc"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"triage/invalid","color":"e6e6e6"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"triage/wontfix","color":"ffffff"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/labels"
+
+# Create Milestones
+curl --user "$USER:$PASS" --include --request POST --data '{"title":"Trust v.1b (Partner)","state":"open","description":"Ready for our beta partners to use with the understanding that we will work with them to resolve issues.","due_on":"2016-01-01T01:00:00Z"}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/milestones"
+curl --user "$USER:$PASS" --include --request POST --data '{"title":"Trust v.2b (Open)","state":"open","description":"Stable, feature-functional, documented and ready to use without our involvement.  All breaking issues are resolved, all others are documented."}' "https://api.github.com/repos/$REPO_USER/$REPO_NAME/milestones"
+
