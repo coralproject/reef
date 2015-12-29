@@ -71,15 +71,15 @@ There's a ton to do on the front end. This is a great time to get involved from 
 * [Launch ELK logging stack](https://github.com/coralproject/reef/issues/10)
 
 
-### Atoll 
-Data Science Pipelines
+### Atoll - Data Science
+Do you like data science? We are currently trying to figure out the most meaningful things we can do with data and the best way to incorporate them into our ecosystem.
 
+https://github.com/coralproject/atoll/issues
 
-### Spawn
-Launch and configure Coral ecosystems
+### Deployment, Security and Processes
+We want to make it quick and easy to deploy and develop Coral products. One of the best ways you can contribute is by letting us know about your experience on this repo.
 
-### Brain
-Processes surrounding security, backup/restores, and more...
+See the documents and issues in this repo. 
 
 
 ## Pre-Alpha Products
@@ -153,12 +153,8 @@ If done flexibly, pieces of Curate will lay groundwork for future projects, such
 
 * A flexible settings interface to drive the configuration options across many projects,
 
-
-
 ### Contribute
 A flexible UGC engine
 
-
 ### Conversation
 Community UI, eg. comments, messaging, etc...
-
