@@ -87,7 +87,72 @@ Processes surrounding security, backup/restores, and more...
 The following projects are on the roadmap for 2016. We haven't started coding them yet, but please do join the planning on the wiki or our [community site](https://community.coralproject.net).
 
 ### Curate 
-Moderation and community engagement
+Community cultivation and engagement
+
+#### Principles
+
+__Strategic Engagement__: Time is the limiting factor in journalistic community building. Curate will provide a flexible set of notifications, queues and other tools that will help make community engagement as efficient and effective as possible.  
+
+#### Who is it for?
+
+Our Curate product is conceived to be used by anyone tasked with engaging the community, including:
+
+* Managers who work to encourage "positive" behavior
+* Moderators tasked with dealing with "negative" content and actors
+* Editors, journalists and others who are interested in deriving insights and growing audiences
+* Trusted users who are given limited permissions and duties
+
+#### Features and Use Cases
+
+##### Moderation Application
+
+* Surface content and activity that may be contrary to guidelines
+* Provide efficient interfaces to moderate content
+* Provide as much information as possible to inform each decision
+  * User's history
+  * Thread tennor
+  * Highlight presence of suspect language, etc...
+* Focus on education over punishment
+  * Allow moderation actions to be associated with community guidelines
+  * Community Tribunal feature sets
+
+##### Community Manager Interface
+
+* CRM style user management
+  * History of communications / notes / user activity
+  * Outreach tools
+  * Apply tags, privileges, etc... to users
+* Community configuration 
+  * Behavior of comment streams (Conversation controls)
+  * Management of UGC (Contribute controls)
+  * Moderation options, pre/post/auto moderation
+* Community guideline building / management 
+
+##### Content Creator Interface
+
+* Focus on filtered segment of the community
+  * One or more sections / asset taxonomy tags 
+  * Assets by one or more authors
+* Tools to surface impactful opportunities to contribute 
+  * rises in activity on an article you've authored,
+  * a post is getting a large number of replies that have positive sentiment,
+
+#### Implementation
+
+This product will require significant development across Cay (fe application), Pillar (custom service layer), Xenia (dynamic query engine.)
+
+Some of the things we'll need to build:
+
+* A full featured moderation system, complete with prioritization, queues and alerts
+* A CRM for community users  
+* Web hooks and pub/sub style notifications will be built in to allow integration with existing commenting stacks.
+* A detailed ACL style user system will need to be put in place. This system will most likely integrate with OAUTH/SAML servers.
+* A push alerting system utilizing outside tech such as sms/slack/etc... is in the cards.
+
+If done flexibly, pieces of Curate will lay groundwork for future projects, such as:
+
+* A flexible settings interface to drive the configuration options across many projects,
+
 
 
 ### Contribute
@@ -96,5 +161,4 @@ A flexible UGC engine
 
 ### Conversation
 Community UI, eg. comments, messaging, etc...
-
 
