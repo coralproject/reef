@@ -30,9 +30,11 @@ The relationship between a reader and a journalistic organization is profound, n
 
 ## What's going on and how can I get involved?
 
+We are still actively developing this open presence. The best way to help us is to file issues and pull requests against our community documention. You can also email us with your experience to let us know what you find exciting/dull, clear/obscure, verbose/missing or "other".
+
 For a high level picture of our vision and products, see [our ecosystem page](ECOSYSTEM.md).
 
-For a granular view of our current focus and future plans, see [the roadmap](ROADMAP.md).  This is a great place to go if you're looking for a way to contribute.  
+For a granular view of our current focus and future plans, see [the roadmap](ROADMAP.md). This is a great place to go if you're looking for a way to contribute code or documentation.  
 
 For more details, visit our various repos and check the issues and milestones.
 
