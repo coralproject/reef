@@ -51,12 +51,6 @@ Coral products are based on the following technologies:
 * [Webpack](https://webpack.github.io/) and [Babel](https://babeljs.io/)
 * [Docker](https://www.docker.com/)
 
-
-## But where's the code?!
-
-You'll see it soon! We are currently stabilizing roles and implementing the initial architecture. We will make all of our non-client specific code, as well as the technical discussions surrounding them, public in early 2016.  
-
-
 For more information about us and to see our blog, please visit [our website](https://coralproject.net) and [sign up to our newsletter](http://tinyletter.com/coralproject). We are also on [Twitter](https://twitter.com/coralproject).
 
 _The Coral Project is a collaboration between [The Mozilla Foundation](https://www.mozilla.org/en-US/foundation/), [The New York Times](http://nytimes.com), and [The Washington Post](http://washingtonpost.com), and is funded by a grant from [The John S. and James L. Knight Foundation](http://knightfoundation.org)._
