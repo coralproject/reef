@@ -54,7 +54,8 @@ We will be refining the schema for core Coral datatypes throughout the first hal
 There is also a lot of work to be done building api endpoints via MongoDB aggregation pipelines with Xenia:
 
 * [Create User Search pipeline](https://github.com/coralproject/xenia/issues/32)
-* [Create xmatch (composable query parameter -> $match functionality)](https://github.com/coralproject/xenia/issues/33)
+* [Extend Xenia to handle map reduce operations](https://github.com/coralproject/xenia/issues/37)
+* [Create data transformation/templating system for query results](https://github.com/coralproject/xenia/issues/38)
 
 ### Front End 
 
