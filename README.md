@@ -13,10 +13,6 @@ We seek to accomplish this by
 
 .
 
-## Security Disclosure
-
-Keeping data secure is very important to us.  If you find or suspect any security issues in our software or practices, please let us know by sending an email to [security@coralproject.net](mailto:security@coralproject.net) and not by creating an issue.
-
 ## Build a Community for your Audience
 
 The Coral Project inspires conversations that lead organizations to discover the particular kinds of community that work for them and provides open source tools to make that community a reality.
