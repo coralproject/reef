@@ -34,8 +34,8 @@ Note: If the subject matter in an issue does not lend itself to a back and forth
 ### Coding
 
 * Fork or create a branched named "Issue #xxx"
-* Made an initial commit (create a file, add comments in file)
-* Open a pull request that references issue in the comment
+* Make an initial commit (create a file, add comments in file)
+* Open a pull request that references issue in the comment and briefly describes your approach to fixing
 * Recruit _code reviewer_ (send them link to the pull request and say, "hey, I'm working on **this**, could you review for me?")
 * Coding will take you through any number of iterations of this:
 * ... contributor works and commits updates
@@ -66,7 +66,7 @@ Note: If the subject matter in an issue does not lend itself to a back and forth
 ### Reviewer
 
 * Watch the pr and check back in when the contributor commits
-* Ensure tests cover 
+* Ensure decent tests cover 
 * Advocating for architecture/library/style decisions early and often
 * Approve and Merge
 
