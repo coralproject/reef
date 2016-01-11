@@ -6,12 +6,10 @@ We seek to find the simplest set of practices and guidelines that lead to a welc
 
 The Coral Project practices master as tip git style.  At any given time, there should only be two active branches:
 
-* _master_: the bleeding edge version
+* _master_: the tip, which includes all completed and reviewed code
 * _release_: the most recent release
 
-Along side these branches, there may be any number of working branches and/or forks.  These are merged directly back into master in the manner described below.
-
-### Notes: 
+Along side these branches, there may be any number of working branches and/or forks.  These are merged directly back into master in the manner described below. Once working branches are merged, they will be deleted.
 
 Fixes for bugs that have made it into the _release_ branch must be applied to both the _release_ branch and _master_.
 
@@ -79,6 +77,6 @@ Note: If the subject matter in an issue does not lend itself to a back and forth
   * Work with issue issuer to clarify/fill in incomplete issues
 * Mediate any disputes
 * Watch the flow of the repos and guide people toward following the above steps
-* Watch the flow of the repos and work to improve the above if it is hindering robust and productive development
+* Watch the flow of the repos and work to improve the above steps if it is hindering robust and productive development
 
 
