@@ -85,46 +85,7 @@ If you’re too frustrated to have a direct conversation, there are a number of 
 
 **Talk to Dan Sinker.** Dan oversees the project. He can be contacted at dan@mozillafoundation.org
 
-**If you feel you have been unfairly accused of violating this code of conduct, you should contact Dan with a concise description of your grievance.
-**
-
-### Guideline violations — 3 strikes method
-
-_Note: 3 strikes methodology and language adopted from the Docker project._
-
-The point of this section is not to find opportunities to punish people, but we
-do need a fair way to deal with people who are making our community suck.
-
-1. First occurrence: We'll give you a friendly, but public reminder that the
-   behavior is inappropriate according to our guidelines.
-
-2. Second occurrence: We will send you a private message with a warning that
-   any additional violations will result in removal from the community.
-
-3. Third occurrence: Depending on the violation, we may need to delete or ban
-   your account.
-
-**Notes:**
-
-* Obvious spammers are banned on first occurrence. If we don't do this, we'll
-  have spam all over the place.
-
-* Violations are forgiven after 6 months of good behavior, and we won't hold a
-  grudge.
-
-* People who commit minor infractions will get some education, rather than
-  hammering them in the 3 strikes process.
-
-* The rules apply equally to everyone in the community, no matter how much
-	you've contributed.
-
-* Extreme violations of a threatening, abusive, destructive or illegal nature
-	will be addressed immediately and are not subject to 3 strikes or forgiveness.
-
-* Contact abuse@docker.com to report abuse or appeal violations. In the case of
-	appeals, we know that mistakes happen, and we'll work with you to come up with a
-	fair solution if there has been a misunderstanding.
-
+**If you feel you have been unfairly accused of violating this code of conduct, you should contact Dan with a concise description of your grievance.**
 
 
 ## Conclusion
