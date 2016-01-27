@@ -28,8 +28,6 @@ Nos comprometemos a enforzar y seguirs construyendo este código mientras dure e
 
 **No lo hagas personal.**
 
-
-
 ## Comportamiento inaceptable:
 
 Estamos comprometidos en proporcionar un ambiente acojedor y seguro para personas de todas las razas, identidades de genero, orientaciones sexuales, habilidades fisicas, apariencias fisicas, niveles socioeconomicos, nacionalidades, edades, religiones y creencias.
@@ -76,32 +74,6 @@ Si estas muy frustrado para tener una conversación directa, hay varias rutas al
 
 **Si sientes que has sido acusado falsamente de violar este codigo de conducta, deberias contactar Dan con una descripción detallada de tu queja.
 **
-
-### Guideline violations — 3 strikes method
-
-_Note: 3 strikes methodology and language adopted from the Docker project._
-
-El objetivo de esta sección no es buscar oportunidades para castigar gente, sino que necesitamos una manera justa de lidiar con gente que no hace bien a nuestra comunidad.
-
-1. Primera vez: Te daremos un recordatorio amigable pero publico que el comportamiento no es apropiado según nuestra guia.
-
-2. Segunda vez: Te enviaremos un mensaje en privado con una advertencia de que cualquier otra violación va a resultar en que seas eliminado de la comunidad.
-
-3. Tercera vez: Depende de la violación, vamos a tener que eliminar o prohibir tu cuenta.
-
-**Notas:**
-
-* Obviamente spammers son prohibidos la primera vez. Si no hacemos esto, tendremos spam en todos lados.
-
-* Violaciones son perdonadas luego de 6 meses de buen comportamiento, y no vamos a mantener rencores.
-
-* Gente que sólo haga pequeñas infracciones van a tener algo de eduación, en vez de ser "martillados" con el proceso de 3 strikes.
-
-* Las reglas aplican para todos de la misma manera en la comunidad, sin importar de cuanto hallan contribuido.
-
-* Violaciones extremas de naturaleza abusiva, destructiva, de amenaza o ilegal va a ser manejada inmediatamente y no esta considerada para 3 strikes o perdón.
-
-* Contactar abuse@coralproject.com para reportar abuso o apelar violaciones. En el caso de apelaciones, sabemos que pueden haber errores, y vamos a trabajar contigo para llegar a una solución justa si ha habido un malentendido.
 
 ## Conclusión
 
