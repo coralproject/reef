@@ -28,6 +28,7 @@ Nos comprometemos a enforzar y seguirs construyendo este código mientras dure e
 
 **No lo hagas personal.**
 
+
 ## Comportamiento inaceptable:
 
 Estamos comprometidos en proporcionar un ambiente acojedor y seguro para personas de todas las razas, identidades de genero, orientaciones sexuales, habilidades fisicas, apariencias fisicas, niveles socioeconomicos, nacionalidades, edades, religiones y creencias.
