@@ -22,7 +22,7 @@ Follow these steps when contributing to the project:
 
 ### Pre coding
 
-Before writing any code with the intention of merging into master, ensure the work your doing has an issue and try in good faith to engage the community in conversation in the issue feed. 
+Before writing any code with the intention of merging into master, ensure the work you're doing has an issue and try in good faith to engage the community in conversation in the issue feed. 
 
 * If an issue exists for the work you are beginning and,
   * no one seems to be working on it, comment that you are starting work and skip to the _coding_ checklist below.
