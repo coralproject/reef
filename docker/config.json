@@ -1,0 +1,9 @@
+{
+ "xeniaHost": "https://coraldemo.coralproject.net/xenia_api",
+ "pillarHost": "https://coraldemo.coralproject.net/pillar_api",
+ "environment": "staging",
+ "brand": "Coral Project",
+ "googleAnalyticsId": "UA-74207854-1",
+ "requireLogin": true,
+ "basicAuthorization": "Basic NmQ3MmU2ZGQtOTNkMC00NDEzLTliNGMtODU0NmQ0ZDM1MTRlOlBDeVgvTFRHWjhOdGZWOGVReXZObkpydm4xc2loQk9uQW5TNFpGZGNFdnc9"
+}
