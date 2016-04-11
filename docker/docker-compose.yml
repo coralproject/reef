@@ -2,33 +2,64 @@ pillarapp:
     environment:
             - PILLAR_HOME=/opt/pillar
             - PILLAR_ADDRESS=:8080
-            - MONGODB_URL=mongodb://10.0.2.2:27017/coral
+            - MONGODB_URL=mongodb://mongodata:27017/coral
     image: coralproject/pillar
-    ports:
-        - "8080:8080"
+    expose:
+        - "8080"
+    links:
+        - mongodata
 
 atollapp:
     image: coralproject/atoll
-    ports:
-        - "8181:8181"
+    expose:
+        - "8181"
 
 xeniaapp:
     environment:
-            - XENIA_MONGO_HOST=10.0.2.2:27017
+            - XENIA_MONGO_HOST=mongodata:27017
             - XENIA_MONGO_AUTHDB=coral
             - XENIA_MONGO_DB=coral
             - XENIA_MONGO_USER=
             - XENIA_MONGO_PASS=
             - XENIA_LOGGING_LEVEL=1
             - XENIA_HOST=:4000
+            - XENIA_AUTH=false
     image: coralproject/xenia
-    ports:
-        - "4000:4000"
+    expose:
+        - "4000"
+    links:
+        - mongodata
+
+# You need to set the environment variable FRONTEND_HOST, which corresponds to
+# the hostname or IP where the proxyapp lives (as-requestable from a browser).
+
+# From a Mac, this might be the IP address from docker-machine, e.g.:
+# $ export FRONTEND_HOST=http://$(docker-machine ip default)
 
 cayapp:
     image: coralproject/cay
+    environment:
+        - "CAY_XENIAHOST=${FRONTEND_HOST}/xenia_api"
+        - "CAY_PILLARHOST=${FRONTEND_HOST}/pillar_api"
+        - "CAY_AUTH:\"\""
+    expose:
+        - "80"
+
+proxyapp:
+    image: nginx
+    links:
+        - xeniaapp
+        - cayapp
+        - pillarapp
     ports:
         - "80:80"
-    links:
-        - pillarapp
-        - xeniaapp
+    volumes:
+        - ./coraldemo.coralproject.net-http.conf:/etc/nginx/conf.d/default.conf:ro
+
+mongodata:
+    image: mongo:3.0
+    command: mongod
+# uncomment the following, and set the MONGO_MOUNTPOINT environment variable, to enable persistence
+# ...mileage may vary on a Mac, as there seem to be permissions issues with volumes there.
+    # volumes:
+    #     - ${MONGO_MOUNTPOINT}:/data/db
