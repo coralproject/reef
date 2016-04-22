@@ -4,8 +4,8 @@ pillarapp:
             - PILLAR_ADDRESS=:8080
             - MONGODB_URL=mongodb://mongodata:27017/coral
     image: coralproject/pillar
-    expose:
-        - "8080"
+    ports:
+        - "8080:8080"
     links:
         - mongodata
 
@@ -25,8 +25,8 @@ xeniaapp:
             - XENIA_HOST=:4000
             - XENIA_AUTH=false
     image: coralproject/xenia
-    expose:
-        - "4000"
+    ports:
+        - "4000:4000"
     links:
         - mongodata
 
@@ -39,22 +39,11 @@ xeniaapp:
 cayapp:
     image: coralproject/cay
     environment:
-        - "CAY_XENIAHOST=${FRONTEND_HOST}/xenia_api"
-        - "CAY_PILLARHOST=${FRONTEND_HOST}/pillar_api"
-        - "CAY_AUTH:\"\""
-    expose:
-        - "80"
-
-proxyapp:
-    image: nginx
-    links:
-        - xeniaapp
-        - cayapp
-        - pillarapp
+        - "XENIA_URL=${FRONTEND_HOST}:4000"
+        - "PILLAR_URL=${FRONTEND_HOST}:8080"
     ports:
         - "80:80"
-    volumes:
-        - ./coraldemo.coralproject.net-http.conf:/etc/nginx/conf.d/default.conf:ro
+
 
 mongodata:
     image: mongo:3.0
