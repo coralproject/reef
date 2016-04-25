@@ -34,7 +34,8 @@ xeniaapp:
 # the hostname or IP where the proxyapp lives (as-requestable from a browser).
 
 # From a Mac, this might be the IP address from docker-machine, e.g.:
-# $ export FRONTEND_HOST=http://$(docker-machine ip default)
+#
+#   export FRONTEND_HOST=http://$(docker-machine ip default)
 
 cayapp:
     image: coralproject/cay
@@ -48,7 +49,5 @@ cayapp:
 mongodata:
     image: mongo:3.0
     command: mongod
-# uncomment the following, and set the MONGO_MOUNTPOINT environment variable, to enable persistence
-# ...mileage may vary on a Mac, as there seem to be permissions issues with volumes there.
-    # volumes:
-    #     - ${MONGO_MOUNTPOINT}:/data/db
+    volumes:
+        - /data/db
