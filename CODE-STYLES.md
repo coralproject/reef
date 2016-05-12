@@ -1,16 +1,8 @@
 # Go Coding Style
 
 Unless explicitly stated, we follow all coding guidelines from the Go
-community. While some of these standards may seem arbitrary, they somehow seem
-to result in a solid, consistent codebase.
-
-It is possible that the code base does not currently comply with these
-guidelines. We are not looking for a massive PR that fixes this, since that
-goes against the spirit of the guidelines. All new contributions should make a
-best effort to clean up and make the code base better than they left it.
-Obviously, apply your best judgement. Remember, the goal here is to make the
-code base easier for humans to navigate and understand. Always keep that in
-mind when nudging others to comply.
+community. All new contributions should make a best effort to clean up and make the code base better than they left it.
+Apply your best judgment and remember that everyone is human.
 
 The rules:
 
@@ -64,6 +56,6 @@ _Attribution: Go Coding Style adopted from the Docker project._
 
 # Javascript conventions
 
-We are currently working under the [Airbnb js react conventions](https://github.com/airbnb/javascript/tree/master/react). 
+We have not instituted a js convention, however refer to the [Airbnb js react conventions](https://github.com/airbnb/javascript/tree/master/react). 
 
 
