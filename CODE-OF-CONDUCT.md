@@ -1,5 +1,5 @@
 # The Coral Project Code of Conduct
-_Updated 12/9/2015_
+_Updated 1/3/2017_
 
 
 **We expect everyone contributing to The Coral Project to follow this code of conduct. That means the team, contractors we employ, contributors, as well as anyone posting to our public or internal-facing channels.**
@@ -83,7 +83,7 @@ If you’re too frustrated to have a direct conversation, there are a number of 
 
 **Talk to Andrew or David.** We will work with you to help you figure out how to ensure that any conflict with a colleague doesn’t interfere with your work, in confidence if you would prefer.
 
-**Talk to Dan Sinker.** Dan oversees the project. He can be contacted at dan@mozillafoundation.org
+**Talk to Chris Lawrence.** Chris oversees the project at Mozilla. He can be contacted at clawrence@mozillafoundation.org
 
 **If you feel you have been unfairly accused of violating this code of conduct, you should contact Dan with a concise description of your grievance.**
 
