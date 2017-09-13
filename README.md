@@ -1,3 +1,5 @@
+**This page is no longer being maintained. To learn more about The Coral Project and how to contribute, please visit [our webpage](https://coralproject.net) or the documentation pages for our products [Ask](https://docs.coralproject.net/products/ask/) and [Talk](https://coralproject.github.io/talk/).**
+
 # The Coral Project: build community
 
 The Coral Project is an open source project helping publishers of all sizes to build better communities around their journalism.
