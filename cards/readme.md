@@ -13,7 +13,7 @@ You can read about the cards, the rules and how to play within this repo.
 
 * [You can also download them as a single PDF here.](https://coralproject.net/wp-content/uploads/2015/12/cards-against-community-instructions.pdf)
 
-* [You can download the Card Fronts as a printable letter-sized PDF here.](https://coralproject.net/wp-content/uploads/2015/12/cards_front.pdf)
+* [You can download the Card Fronts as a printable letter-sized PDF here.](http://blog.coralproject.net/wp-content/uploads/2017/09/cardsfront-new.pdf)
 * [You can download the Card Backs as a printable letter-sized PDF here.](https://coralproject.net/wp-content/uploads/2015/12/cards_back.pdf)
 
 ###Change this game
